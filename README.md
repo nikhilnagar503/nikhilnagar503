@@ -1,39 +1,49 @@
-👋 Hi, I'm Nikhil Nagar
-🚀 Machine Learning Engineer | Data Science Enthusiast | DSA & MLOps Learner
-Passionate about Machine Learning, Deep Learning, and Generative AI. I enjoy solving real-world problems using data-driven approaches and building scalable ML solutions.
-Currently diving deep into Deep Learning, MLOps, and Generative AI.
+## 👋 Hi, I'm Nikhil Nagar  
+### 🚀 Machine Learning Engineer | Data Science Enthusiast | Entrepreneur
 
-🧠 Problem Solver | DSA Enthusiast | Clean Coder
-Strong in Data Structures & Algorithms
+Passionate about **Machine Learning**, **Deep Learning**, and **Generative AI**. I enjoy solving real-world problems using data-driven approaches and building scalable ML solutions. Currently, I'm learning **Deep Learning** and **Generative AI**, and working on **Deep Learning** and **Power BI** projects.
 
-Focused on writing clean, efficient, and maintainable code
+---
 
-Enthusiastic about competitive coding and problem-solving on platforms like LeetCode 
+### 📫 Get in Touch
 
-📫 Get in Touch
-Email: nagarn603@gmail.com
+- **Email:** [nagarn603@gmail.com](mailto:nagarn603@gmail.com)
+- **LinkedIn:** [Nikhil Nagar](https://www.linkedin.com/in/nikhil-nagar-996204264/) *(Actively sharing insights & networking!)*
+- **Kaggle:** [Nikhil Nagar](https://www.kaggle.com/nikhil8885)
+- **LeetCode:** [Nikhil Nagar](https://leetcode.com/u/nagarn603/)
+- **Medium:** [@nagarn603](https://medium.com/@nagarn603)
+- **Instagram:** [@nikhil_dhakad_4004](https://www.instagram.com/nikhil_dhakad_4004/?hl=en)
 
-LinkedIn: Nikhil Nagar (Actively sharing insights & networking!)
+---
 
-Kaggle: Nikhil Nagar
+### 🔧 Languages & Tools
 
-LeetCode: Nikhil Nagar
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,pandas,numpy,scikit-learn,flask,git,mysql,powerbi,docker,linux" alt="Tech Stack" />
+</p>
 
-Medium: @nagarn603
+---
 
-🔧 Languages & Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,pandas,numpy,scikit-learn,flask,git,mysql,powerbi,docker,linux,fastapi" alt="Tech Stack" /> </p>
-📊 What I'm Working On
-Deep Learning & Generative AI Projects 🧠
+### 📊 What I'm Working On
+- **Deep Learning & Generative AI Projects** 🧠
+- **Power BI Data Visualization Projects** 📊
+- **Entrepreneurial Ventures in Tech & AI** 🚀
 
-MLOps Tools & Deployment Pipelines 🔧
+---
 
-Improving Problem Solving Skills (DSA + Competitive Coding) 💡
+### 🎯 Hobbies & Interests
+- 🏋️‍♂️ **Gym & Fitness**
+- 🏸 **Badminton**
+- 🚀 **Entrepreneurship & Business Strategy**
 
-🎯 Hobbies & Interests
-🏋️‍♂️ Gym & Fitness
-☕ Chai Talks & Deep fun with Friends
+---
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilnagar503&theme=tokyonight" alt="GitHub Streak Stats" /> </p>
-⭐ Feel free to explore my repositories and connect with me! Always happy to collaborate on exciting ideas. 🚀
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilnagar503&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+⭐ **Feel free to explore my repositories and connect with me!** 🚀
