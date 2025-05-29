@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Nikhil Nagar  
-### 🚀 Machine Learning Engineer | Data Science Enthusiast | Entrepreneur
+### 🚀 Machine Learning Engineer | Data Science Enthusiast 
 
 Passionate about **Machine Learning**, **Deep Learning**, and **Generative AI**. I enjoy solving real-world problems using data-driven approaches and building scalable ML solutions. Currently, I'm learning **Deep Learning** and **Generative AI**, and working on **Deep Learning** and **Power BI** projects.
 
@@ -26,15 +26,13 @@ Passionate about **Machine Learning**, **Deep Learning**, and **Generative AI**.
 
 ### 📊 What I'm Working On
 - **Deep Learning & Generative AI Projects** 🧠
-- **Power BI Data Visualization Projects** 📊
-- **Entrepreneurial Ventures in Tech & AI** 🚀
+
 
 ---
 
 ### 🎯 Hobbies & Interests
 - 🏋️‍♂️ **Gym & Fitness**
-- 🏸 **Badminton**
-- 🚀 **Entrepreneurship & Business Strategy**
+☕ Chai Talks & fun with Friends
 
 ---
 
