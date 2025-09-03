@@ -23,7 +23,7 @@ Passionate about **Machine Learning**, **Deep Learning**, and **Generative AI**.
 ---
 
 ### 📊 What I'm Working On
-- **Deep Learning & Generative AI Projects** 🧠
+- ** MLOPS and AIOPS  ** 🧠
 
 
 ---
