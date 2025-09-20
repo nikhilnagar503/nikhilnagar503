@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Nikhil Nagar  
+## 👋 Hiii, I'm Nikhil Nagar  
 ### 🚀 Machine Learning Engineer | Data Science Enthusiast 
 
 Passionate about **Machine Learning**, **Deep Learning**, and **Generative AI**. I enjoy solving real-world problems using data-driven approaches and building scalable ML solutions. Currently, I'm learning **Deep Learning** , and working on **Deep Learning** .
